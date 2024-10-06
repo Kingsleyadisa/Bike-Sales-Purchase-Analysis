@@ -59,6 +59,7 @@ Based on this analysis, we’ve been able to answer some basic business question
 - Which age bracket should be given less attention by bike manufacturers
 - How European Middle Age Singles on bike purchase behave
 - Which academic qualification earns more
+  
 ## Recommendation
 - Less attention should be given to the Middle Age group by the Bike Manufacturers because it is discovered, from the chart, that they usually buy more. Hence, more marketing focus should instead be on the adolescent and old age bracket because their count of bike purchase is relatively low
 - For European middle age singles on bike purchase, these people are observed to travel lesser miles, even with a purchase bike count of about 70. Hence, they’re less commuters and would likely spend time at home. There’s possibility of them working from home and only need bikes to get home items nearby
